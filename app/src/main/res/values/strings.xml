@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="data_base_url">https://api.podio.com/</string>
+    <string name="data_client_id">podiobybam</string>
+    <string name="data_client_secret">cRBXts9oeeWu0v3Fwwzz7KAef2cePP7XEP2k1zGJzLvfE6aYEynWWyhgIN1Y6qU9</string>
+    <string name="app_name">Podio</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="refresh">Refresh</string>
+    <string name="loading">Loading...</string>
+    <string name="ok">Ok</string>
+    <string name="error_blank_username_password">Username/password cannot be blank</string>
+    <string name="error_connection">Error: </string>
+    <string name="error_json_parsing">Error parsing JSON</string>
+    <string name="error_no_response">No response</string>
+
+</resources>
